@@ -1,18 +1,23 @@
 # Image Steganography using LSB Technique
 A web-based steganography application that allows users to hide and retrieve secret messages in images using the Least Significant Bit (LSB) technique. The backend is built with Python (Flask), while the frontend uses HTML, CSS, and JavaScript.
 
-## 📂Project Structure
-│── static/               # Static files (CSS & JS)
-│   │── script.js         # JavaScript logic
-│   └── styles.css        # Stylesheet for UI
-│── templates/            # HTML templates
-│   └── index.html        # Main web page
-│── uploads/              # Uploaded images (input & encoded)
-│   │── input.png         # Original uploaded image
-│   └── encoded_image.png # Image with hidden message
-│── LICENSE               # License file
-│── app.py                # Flask application (backend logic)
-│── requirements.txt      # Dependencies for the project
+📂 Project Structure
+graphql
+Copy
+Edit
+📦 Image-Steganography  
+ ┣ 📂 static/  
+ ┃ ┣ 📜 script.js         # JavaScript logic  
+ ┃ ┗ 📜 styles.css        # Stylesheet for UI  
+ ┣ 📂 templates/  
+ ┃ ┗ 📜 index.html        # Main web page  
+ ┣ 📂 uploads/            # Uploaded images (input & encoded)  
+ ┃ ┣ 🖼 input.png         # Original uploaded image  
+ ┃ ┗ 🖼 encoded_image.png # Image with hidden message  
+ ┣ 📜 LICENSE             # License file  
+ ┣ 📜 app.py              # Flask application (backend logic)  
+ ┣ 📜 requirements.txt     # Dependencies for the project  
+
 
 
 ## ✨Features
