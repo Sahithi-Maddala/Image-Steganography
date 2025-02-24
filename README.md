@@ -44,21 +44,33 @@ The server will start at http://127.0.0.1:5000/.
 
 ## 🚀Usage
 1️⃣ Open the Web Interface
+
 Navigate to http://127.0.0.1:5000/ in your browser.
 
 2️⃣ Encode a Message
+
 Upload an image.
+
 Enter the secret message and a security key.
+
 Click "Encode" to generate the steganographic image.
+
 3️⃣ Decode a Message
+
 Upload the encoded image.
+
 Enter the correct security key.
+
 Click "Decode" to reveal the hidden message.
+
 
 ## 🛠Tech Stack
 Backend: Flask (Python)
+
 Frontend: HTML, CSS, JavaScript
+
 Libraries: OpenCV, NumPy, Pillow
+
 
 ## 📜License
 This project is licensed under the MIT License.
