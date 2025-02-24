@@ -3,25 +3,15 @@ A web-based steganography application that allows users to hide and retrieve sec
 
 ## 📂Project Structure
 │── static/               # Static files (CSS & JS)
-
 │   │── script.js         # JavaScript logic
-
 │   └── styles.css        # Stylesheet for UI
-
 │── templates/            # HTML templates
-
 │   └── index.html        # Main web page
-
 │── uploads/              # Uploaded images (input & encoded)
-
 │   │── input.png         # Original uploaded image
-
 │   └── encoded_image.png # Image with hidden message
-
 │── LICENSE               # License file
-
 │── app.py                # Flask application (backend logic)
-
 │── requirements.txt      # Dependencies for the project
 
 
