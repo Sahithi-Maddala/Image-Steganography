@@ -112,7 +112,7 @@ Contributions are welcome! Feel free to submit **issues** or **pull requests**.
 ## **Author**  
 
 👤 **Your Name**  
-🔗 GitHub: Sahithi-Maddala
+🔗 GitHub: https://github.com/Sahithi-Maddala (Sahithi-Maddala)
 
 ---
 
